@@ -7,4 +7,3 @@ My mint.com hacks using Greasemonkey
 
 Provides custom search links from the Transactions view.
 
-TODO: add a dialog for building & managing custom searches
