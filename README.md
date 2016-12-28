@@ -1,9 +1,6 @@
 jheddings :: mint
 =================
 
-My mint.com hacks using Greasemonkey
+## NOTE ##
 
-## txn-searches.js ##
-
-Provides custom search links from the Transactions view.
-
+I've stopped using Mint, so this repository is no longer active.  Just keeping it here for posterity.
